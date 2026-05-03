@@ -3,6 +3,7 @@
 }
 
 body {
+    background: firebrick;
     font: 1em sans-serif;
     display: flex;
     justify-content: center;
